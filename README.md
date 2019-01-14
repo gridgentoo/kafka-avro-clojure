@@ -1,3 +1,6 @@
+# One Million Clicks per Minute with Kafka and Clojure - Devon Peticolas
+https://www.youtube.com/watch?v=VC_MTD68erY
+
 # kafka-avro-confluent [![CircleCI](https://circleci.com/gh/ovotech/kafka-avro-confluent.svg?style=svg)](https://circleci.com/gh/ovotech/kafka-avro-confluent)
 
 Kafka De/Serializer using avro and Confluent's Schema Registry
